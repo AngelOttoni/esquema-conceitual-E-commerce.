@@ -16,14 +16,15 @@
 - O Endereço do cliente irá determinar o valor do frete
 - Um cliente pode comprar mais de um pedido. Este tem um período de carência para devolução do produto
 
-**Narrativa – Pedido**
+**Narrativa – Order**
 - O pedidos são criados por clientes e possuem informações de compra (Forma de pagamento), endereço e status da entrega
 - Um produto ou mais compoem o pedido
 - O pedido possui código de rastreamento de entrega
 - O pedido pode ser cancelado
 
+*A modelagem foi realizada usando a ferramenta MySQL Workbench*
 
-**Descrição do Desafio**
+## Descrição do Desafio
 
 O  esquema deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. 
 
